@@ -1,6 +1,5 @@
-### Hi there 👋
-https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Student
-https://git.io/typing-svg
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Student)](https://git.io/typing-svg)
 
 <!--
 **shreyas023/shreyas023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
