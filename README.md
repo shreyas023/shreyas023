@@ -1,17 +1,43 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Student)](https://git.io/typing-svg)
 
-<!--
-**shreyas023/shreyas023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <img src="https://komarev.com/ghpvc/?username=shreyas023" alt="">
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=10000&vCenter=true&width=435&lines=%24+~%2FSkills)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,react,nodejs,figma,mysql,php,ai,aws" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,matlab" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
+
+<hr>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fapps)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) -->
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=10000&vCenter=true&width=435&lines=%24+~%2Fcontact_me)](https://git.io/typing-svg)
+
+<a href="mailto:shreyasbailkar01@gmail.com?subject=Hello%20Shreyas">
+        <img src="https://img.shields.io/badge/-Gmail-333C43?logo=gmail&logoColor=gmail&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
+</a>
+
+<a href="https://linkedin.com/in/shreyas-bailkar-a4597121b">
+        <img src="https://img.shields.io/badge/-LinkedIn-333C43?logo=linkedin&logoColor=discord&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
+</a>
