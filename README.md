@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://readme-typing-svg.demolab.com/?lines=Hi ! I'm Shreyas Bailkar;Full Stack Developer | Student
+https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Student
 https://git.io/typing-svg
 
 <!--
