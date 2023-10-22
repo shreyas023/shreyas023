@@ -10,12 +10,12 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,react,nodejs,figma,mysql,php,ai,aws,flask,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,react,nodejs,figma,mysql,php,ai,aws,flask,postman,heroku" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,matlab,powershell" />
   </a>
 </p>
 <p>
