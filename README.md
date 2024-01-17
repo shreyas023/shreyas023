@@ -10,17 +10,17 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,react,nodejs,figma,mysql,php,postgresql,expressjs,flask,heroku" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,react,nodejs,figma,mysql,expressjs,flask,dart" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,matlab,powershell,aws,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,matlab,powershell,aws,googlecloud,tensorflow" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,flutter,androidstudio" />
   </a>
 </p>
 
