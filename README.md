@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Freelancer+|+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Shreyas+Bailkar;Full+Stack+Developer+|+Freelancer)](https://git.io/typing-svg)
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=shreyas023" alt="">
